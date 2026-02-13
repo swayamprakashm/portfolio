@@ -6,7 +6,12 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 ## 🚀 Live Preview
 
-🔗 
+<p align="center">
+  <a href="https://portfolioenginow.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge" />
+  </a>
+</p>
+
 
 <img src="https://github.com/user-attachments/assets/d86bd9b3-52e4-4add-94bc-8b36370233ea" width="700" alt="Portfolio Screenshot" />
 
