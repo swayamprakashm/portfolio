@@ -8,7 +8,8 @@ A modern and responsive personal portfolio website built using **HTML, CSS, and 
 
 🔗 
 
-<img width="1920" height="3603" alt="screencapture-127-0-0-1-5500-index-html-2026-02-13-14_24_11 (1)" src="https://github.com/user-attachments/assets/d86bd9b3-52e4-4add-94bc-8b36370233ea" />
+<img src="https://github.com/user-attachments/assets/d86bd9b3-52e4-4add-94bc-8b36370233ea" width="700" alt="Portfolio Screenshot" />
+
 
 ---
 
@@ -98,8 +99,11 @@ cd portfolio
 ## 📧 Contact Me
 
 **Name:** Swayam Prakash Macharla
+
 **Role:** Frontend Developer
+
 **LinkedIn:** [https://www.linkedin.com/in/swayam-prakash-macharla/](https://www.linkedin.com/in/swayam-prakash-macharla/)
+
 **GitHub:** [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 
 ---
